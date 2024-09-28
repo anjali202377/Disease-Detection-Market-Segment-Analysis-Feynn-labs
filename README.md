@@ -1,2 +1,2 @@
 # Disease-Detection-Market-Segment-Analysis-Feynn-labs
-Disease Detection Market Segment Analysis
+The dataset consists of customer data with variables such as age, income, purchasing history, product preferences, and geographical information. The objective is to identify meaningful groups within this data that share common characteristics. Any missing or erroneous data points will be handled through imputation or removal. The segmentation will provide insights into customer behaviours and preferences, enabling targeted marketing campaigns, tailored products, and optimized resource allocation for the company.
